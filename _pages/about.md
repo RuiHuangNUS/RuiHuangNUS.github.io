@@ -46,11 +46,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
 - *2022.10* Conprofe Scholarship.
+- *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize.
 
 # 📖 Educations
-- *2025.01 - now*, Ph.D student, National University of Singapore (NUS), Singapore.
-- *2021.09 - 2024.04*, Master, NUAA, Nanjing, China.
-- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. 
+- *2025.01 - now*, Ph.D student, National University of Singapore (NUS), Electrical and Computer Engineering.
+- *2021.09 - 2024.04*, Master, NUAA, Aeronautical and Astronautical Science and Technology.
+- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics (NUAA), Aircraft Power Engineering. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
