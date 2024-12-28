@@ -43,11 +43,12 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship. 
-- *2024.10* National Scholarship. 
+- *2024.04* Outstanding Graduate of Jiangsu Province. 
+- *2023.10* National Scholarship.
+- *2022.10* Conprofe Scholarship.
 
 # 📖 Educations
-- *2025.01 - now*, Ph.D student, National University of Singapore, Singapore.
+- *2025.01 - now*, Ph.D student, National University of Singapore (NUS), Singapore.
 - *2021.09 - 2024.04*, Master, NUAA, Nanjing, China.
 - *2017.09 - 2021.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. 
 
