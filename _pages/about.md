@@ -46,9 +46,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize.
 
 # 📖 Educations
-- *2025.01 - now*, Ph.D student, National University of Singapore (NUS), Electrical and Computer Engineering.
-- *2021.09 - 2024.04*, Master, NUAA, Aeronautical and Astronautical Science and Technology.
-- *2017.09 - 2021.06*, Undergraduate, Nanjing University of Aeronautics and Astronautics (NUAA), Aircraft Power Engineering. 
+- *2025.01 - Present*, Ph.D in Electrical and Computer Engineering, National University of Singapore (NUS).
+- *2021.09 - 2024.04*, M.Eng. in Aeronautical and Astronautical Science and Technology, NUAA.
+- *2017.09 - 2021.06*, B.Eng. in Aircraft Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA). 
 
 <!--
 # 💬 Invited Talks
