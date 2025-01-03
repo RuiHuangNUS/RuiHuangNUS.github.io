@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive configuration control of combined UAVs based on leader-wingman mode](https://www.sciencedirect.com/science/article/pii/S1000936124002607)
@@ -50,11 +50,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - 2024.04*, M.Eng. in Aeronautical and Astronautical Science and Technology, NUAA.
 - *2017.09 - 2021.06*, B.Eng. in Aircraft Power Engineering, Nanjing University of Aeronautics and Astronautics (NUAA). 
 
+# 💻 Projects
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
-# 💻 Projects
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
