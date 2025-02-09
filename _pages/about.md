@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive configuration control of combined UAVs based on leader-wingman mode](https://www.sciencedirect.com/science/article/pii/S1000936124002607)
+[XXX](https://www.sciencedirect.com)
 
 **Rui Huang**, XXX test
 
