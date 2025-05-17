@@ -21,6 +21,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper titled "Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems" has been accepted by ICRA 2025! 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications 
