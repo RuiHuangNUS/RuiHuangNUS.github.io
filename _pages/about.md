@@ -25,9 +25,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications 
+**Rui Huang**, XXX Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Rui Huang**, XXX Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems
+
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
