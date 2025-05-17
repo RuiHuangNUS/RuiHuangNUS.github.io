@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2025.01 - Present*, Ph.D in Electrical and Computer Engineering, National University of Singapore (NUS).
 
-# 💻 Projects
+# 💻 NUS Student Projects
 - *2020.05 - 2021.02*, [Lorem](https://github.com/), China.
 - *2020.05 - 2021.02*,
 - *2020.05 - 2024.04*,
