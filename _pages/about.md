@@ -26,13 +26,11 @@ My research interest includes robotics and XXX. I have published more than 100 p
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-**Rui Huang**, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376) ICRA (2025).
 <div class='paper-box-text' markdown="1">
-
+**Rui Huang**, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376) ICRA (2025).
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [XXX](https://www.sciencedirect.com)
 
 
