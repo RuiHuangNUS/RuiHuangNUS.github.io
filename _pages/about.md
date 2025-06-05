@@ -54,7 +54,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
 - *2025.01 - Present*, Ph.D in Electrical and Computer Engineering, National University of Singapore (NUS).
 
 # 💻 NUS Student Projects
-- *2024.08 - 2025.05*, [Docking and separation project](https://github.com/), .
+- *2024.08 - 2025.05*, Docking and separation project
 
   Zhiqian Cai, Siyu Tang, Zhenyu Zhang
   
