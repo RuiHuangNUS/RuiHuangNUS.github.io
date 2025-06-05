@@ -60,9 +60,9 @@ My research interest includes robotics and XXX. I have published more than 100 p
   
   Related work:
   
- ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376)
-
- ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems"](https://arxiv.org/abs/2503.09351)
+  [Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems](https://arxiv.org/abs/2503.09376)
+  
+  [Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems](https://arxiv.org/abs/2503.09351)
 
 - *2020.05 - 2021.02*,
 - *2020.05 - 2024.04*,
