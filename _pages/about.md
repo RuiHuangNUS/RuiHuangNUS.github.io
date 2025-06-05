@@ -59,6 +59,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
   Related works:
   
   Huang, Rui, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376) ICRA (2025).
+  
   Huang, Rui, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao. [Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems](https://arxiv.org/abs/2503.09351) Under review.
 
 - *2025.01 - Present*, XXX: Peiru Chen, Zekai Du
