@@ -25,7 +25,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications 
-**Rui Huang**, XXX Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems
+**Rui Huang**, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376) ICRA (2025).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,9 +58,9 @@ My research interest includes robotics and XXX. I have published more than 100 p
   
   Related works:
   
-  Huang, Rui, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376) ICRA (2025).
+  ICRA2025: ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376)
   
-  Huang, Rui, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao. ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351) (Under review)
+  ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351) (Under review)
 
 - *2025.01 - Present*, XXX: Peiru Chen, Zekai Du
 
