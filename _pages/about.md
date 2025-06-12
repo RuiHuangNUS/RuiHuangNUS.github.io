@@ -30,7 +30,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2025</div>
-      <img src='images/MARS_FTCC.png' alt="sym" width="100%">
+      <img src='images/500x300.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -44,7 +44,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under review</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/MARS_FTCC.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
