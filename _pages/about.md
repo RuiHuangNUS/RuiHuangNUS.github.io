@@ -35,7 +35,7 @@ redirect_from:
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> 2025 International Conference on Robotics and Automation (ICRA). 
-    [![](https://img.shields.io/github/stars/RuiHuangNUS/MARS-Reconfig)](https://github.com/RuiHuangNUS/MARS-Reconfig)
+    [![](https://img.shields.io/github/stars/RuiHuangNUS/MARS-Reconfig?style=social&label=Code+Stars)](https://github.com/RuiHuangNUS/MARS-Reconfig)
     <br><strong>Rui Huang</strong>, Siyu Tang, Zhiqian Cai, and Lin Zhao.
   </div>
 </div>
