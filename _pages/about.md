@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉  Our team won the Judge’s Commendation Award in the Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue.
 - *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376) has been accepted by ICRA 2025! 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
@@ -63,9 +64,12 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
+- *2022.10* Conprofe Scholarship.
+
+# 🎖 Honors and Awards
+- *2025.04*	Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue, Judge’s Commendation Award.
 - *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize
 - *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%), Second prize
-- *2022.10* Conprofe Scholarship.
 - *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
 - *2021.05* National, international aircraft design challenge in China - Third Prize
 - *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize (First time our university has won the award, Team leader).
