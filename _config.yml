@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Huang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""First-year doctoral student at the NUS ECE, focusing on aerial robotics"
 repository               : "RuiHuangNUS/ruihuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2K_0Vs8AAAAJ"
-  email            : "ruihuang@nus.edu.sg"
+  email            : "ruihuang@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "RuiHuang-nus"
   wikipedia        :
 
 
