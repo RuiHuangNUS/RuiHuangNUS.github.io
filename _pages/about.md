@@ -63,8 +63,15 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
+- *2023.08*	Graduate Future Flight Vehicle Innovation Competition in China 
+- *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%, Team leader), Second prize
 - *2022.10* Conprofe Scholarship.
-- *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize.
+- *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
+- *2021.05* National, international aircraft design challenge in China - Third Prize
+- *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize (First time our university has won the award, Team leader).
+- *2020.06* Baidu Inc. Crowd counting detection  - Champion (1/253, Team leader)
+- *2020.06* Baidu Inc. Traffic light detection - Champion (1/253, Team leader)
+- *2019.08* The 12th national university student social practice and science contest on energy saving & emission reduction in China - Third Prize
 
 # 📖 Educations
 - *2025.01 - Present*, Ph.D in Electrical and Computer Engineering, National University of Singapore (NUS).
