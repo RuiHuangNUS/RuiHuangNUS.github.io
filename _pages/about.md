@@ -71,8 +71,8 @@ My research interest includes robotics and XXX. I have published more than 100 p
   
   Under review: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
 
-- *2025.01 - Present*, XXX: Peiru Chen, Zekai Du
-
+- *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
+- *2025.08 - Present*, XXX: 
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
