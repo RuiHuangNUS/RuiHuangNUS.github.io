@@ -68,7 +68,7 @@ redirect_from:
 
 # 🎖 Competitions
 - *2025.04*	Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue, Judge’s Commendation Award.
-- *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize
+- *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize (Team leader)
 - *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%), Second prize
 - *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
 - *2021.05* National, international aircraft design challenge in China - Third Prize
