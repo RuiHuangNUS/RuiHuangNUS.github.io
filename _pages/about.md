@@ -26,7 +26,24 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
-<!-- Paper 1 -->
+<!-- Paper 3 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under review</div>
+      <img src='images/MARS_FTCC_why_agile.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a>
+    <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
+    <br>
+    <a href="https://github.com/RuiHuangNUS/MARS-FTCC"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-FTCC?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
+    <a href="https://www.youtube.com/watch?v=H8Fmif7PbdM" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
+  </div>
+</div>
+
+<!-- Paper 2 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -44,23 +61,19 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 1 -->
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <!-- <div class='paper-box-image'>
     <div>
-      <div class="badge">Under review</div>
-      <img src='images/MARS_FTCC_why_agile.gif' alt="sym" width="100%">
+      <div class="badge">CJA 2024</div>
+      <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" width="100%">
     </div>
-  </div>
+  </div> -->
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a>
-    <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
-    <br>
-    <a href="https://github.com/RuiHuangNUS/MARS-FTCC"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-FTCC?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
-    <a href="https://www.youtube.com/watch?v=H8Fmif7PbdM" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
+    <a href="https://doi.org/10.1016/j.cja.2024.07.005">Adaptive configuration control of combined UAVs based on leader-wingman mode.</a> Chinese Journal of Aeronautics.
+    <br><strong>Rui Huang</strong>, Hanlin Sheng, Qian Chen, Ziting Ran, Zhen Xue, Jiacheng Li, Tong Liu.
   </div>
 </div>
-
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
