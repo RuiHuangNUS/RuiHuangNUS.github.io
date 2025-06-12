@@ -63,7 +63,7 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
-- *2023.08*	Graduate Future Flight Vehicle Innovation Competition in China 
+- *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize
 - *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%, Team leader), Second prize
 - *2022.10* Conprofe Scholarship.
 - *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
