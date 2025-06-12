@@ -42,9 +42,6 @@ redirect_from:
      <a href="images/MARS_Reconfig_3x2_full_track.gif"
       data-lightbox="mars-gif"
       data-title="Modular Aerial Robot System">
-      <img src="images/MARS_Reconfig_3x2_full_track.gif"
-          alt="sym"
-          class="paper-thumbnail">
     </a>
     </div>
   </div>
