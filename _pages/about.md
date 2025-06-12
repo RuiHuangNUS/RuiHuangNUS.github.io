@@ -63,12 +63,6 @@ redirect_from:
 
 <!-- Paper 1 -->
 <div class='paper-box'>
-  <!-- <div class='paper-box-image'>
-    <div>
-      <div class="badge">CJA 2024</div>
-      <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" width="100%">
-    </div>
-  </div> -->
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.cja.2024.07.005">Adaptive configuration control of combined UAVs based on leader-wingman mode.</a> Chinese Journal of Aeronautics.
     <br><strong>Rui Huang</strong>, Hanlin Sheng, Qian Chen, Ziting Ran, Zhen Xue, Jiacheng Li, Tong Liu.
@@ -103,4 +97,4 @@ redirect_from:
   Under review: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
-- *2025.08 - Present*, Robot manipulation: TBD 
+- *2025.08 - Present*, Robot manipulation: TBD
