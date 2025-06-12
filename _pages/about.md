@@ -103,4 +103,4 @@ redirect_from:
   Under review: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
-- *2025.08 - Present*, TBD 
+- *2025.08 - Present*, Robot manipulation: TBD 
