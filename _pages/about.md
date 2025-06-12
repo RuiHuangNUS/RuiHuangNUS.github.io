@@ -26,11 +26,20 @@ redirect_from:
 
 # 📝 Publications
 <!-- Paper 1 -->
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2025</div>
       <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box'> -->
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2025</div>
+      <a href='images/MARS_Reconfig_3x2_full_track.gif' data-lightbox="mars-gif" data-title="Modular Aerial Robot System">
+        <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" width="100%">
+      </a>
     </div>
   </div>
   <div class='paper-box-text'>
