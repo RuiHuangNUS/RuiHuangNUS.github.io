@@ -33,9 +33,9 @@ redirect_from:
       <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" width="100%">
             <!-- <a href='images/MARS_Reconfig_3x2_full_track.gif' data-lightbox="mars-gif" data-title="Modular Aerial Robot System">
         <img src='images/MARS_Reconfig_3x2_full_track.gif' alt="sym" style="width:300px; border-radius:8px;"> -->
-    </div>
-  </div>
-  <div class='paper-box'> -->
+    <!-- </div>
+  <!-- </div> -->
+  <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2025</div>
