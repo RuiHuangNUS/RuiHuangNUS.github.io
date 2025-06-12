@@ -36,7 +36,7 @@ redirect_from:
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> 2025 International Conference on Robotics and Automation (ICRA).
     <br><strong>Rui Huang</strong>, Siyu Tang, Zhiqian Cai, and Lin Zhao.
-
+    <br>
     <a href="https://github.com/RuiHuangNUS/MARS-Reconfig"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-Reconfig?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
     <a href="https://www.youtube.com/watch?v=R7IvXotEuXU" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
     <a href="https://www.bilibili.com/video/BV1ofJGzFEBg" target="_blank"><img src="https://img.shields.io/badge/观看-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili Badge"></a>
@@ -54,7 +54,7 @@ redirect_from:
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a>
     <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
-
+    <br>
     <a href="https://github.com/RuiHuangNUS/MARS-FTCC"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-FTCC?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
     <a href="https://www.youtube.com/watch?v=H8Fmif7PbdM" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
   </div>
