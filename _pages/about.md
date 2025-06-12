@@ -43,17 +43,15 @@ My research interest includes robotics and XXX. I have published more than 100 p
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2016</div>
+      <div class="badge">Under review</div>
       <img src='images/500x300.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-    <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">Deep Residual Learning for Image Recognition</a>  
+    <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a>  
     <br><strong>Kaiming He</strong>, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
-    <br><a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC"><strong>Project</strong></a>  
-    <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-    </ul>
+    <strong>Project</strong></a>  
+    <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
   </div>
 </div>
 
