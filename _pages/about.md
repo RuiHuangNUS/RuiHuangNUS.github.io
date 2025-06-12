@@ -44,7 +44,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under review</div>
-      <img src='images/MARS_FTCC.png' alt="sym" width="100%">
+      <img src='images/MARS_FTCC_why_agile.gif' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
