@@ -34,7 +34,7 @@ My research interest includes robotics and XXX. I have published more than 100 p
     </div>
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> ICRA (2025).  
+    <a href="https://arxiv.org/abs/2503.09376">Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems.</a> 2025 International Conference on Robotics and Automation (ICRA).  
     <br><strong>Rui Huang</strong>, Siyu Tang, Zhiqian Cai, and Lin Zhao.
   </div>
 </div>
