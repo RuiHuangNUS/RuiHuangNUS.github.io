@@ -49,8 +49,6 @@ My research interest includes robotics and XXX. I have published more than 100 p
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a>  
-    <br><strong>Kaiming He</strong>, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
-    <strong>Project</strong></a>  
     <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
   </div>
 </div>
