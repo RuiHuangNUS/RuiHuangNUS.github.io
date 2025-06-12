@@ -66,7 +66,7 @@ redirect_from:
 - *2023.10* National Scholarship.
 - *2022.10* Conprofe Scholarship.
 
-# 🎖 Honors and Awards
+# 🎖 Competitions
 - *2025.04*	Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue, Judge’s Commendation Award.
 - *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize
 - *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%), Second prize
