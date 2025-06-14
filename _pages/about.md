@@ -98,3 +98,5 @@ redirect_from:
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
 - *2025.08 - Present*, Robot manipulation: TBD
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SZ_zLv2PrWp34aoHrDp9xmke1oLrRR_9WWHyL8-0xX8&cl=ffffff&w=a"></script>
