@@ -93,9 +93,9 @@ redirect_from:
   
   Related works:
   
-  ICRA2025: ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376)
+  ICRA 2025: ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376)
   
-  Under review: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
+  IROS 2025: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
 - *2025.08 - Present*, Robot manipulation: TBD
