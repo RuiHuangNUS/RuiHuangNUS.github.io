@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems"]((https://arxiv.org/abs/2503.09351)) has been accepted by ICRA 2025, See you in Hangzhou! 
+- *2025.06*: &nbsp;🎉🎉 Our paper titled ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems"]((https://arxiv.org/abs/2503.09351)) has been accepted by IROS 2025. See you in Hangzhou! 
 - *2025.04*: &nbsp;🎉🎉  Our team won the Judge’s Commendation Award in the Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue.
 - *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376) has been accepted by ICRA 2025! 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
