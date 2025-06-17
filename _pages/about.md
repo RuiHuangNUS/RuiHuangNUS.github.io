@@ -82,10 +82,10 @@ redirect_from:
 - *2021.05* National, international aircraft design challenge in China - Third Prize
 - *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize (First time our university has won the award, Team leader).
 
-<div style="display: flex; flex-direction: row; gap: 1px; margin-top: 10px;">
-  <img src="images/competition_car.gif" alt="Car Competition GIF 1" style="width: 25%;">
-  <img src="images/competition_intelligent_vehicle.gif" alt="Car Competition GIF 2" style="width: 25%;">
-  <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 3" style="width: 48%;">
+<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
+  <img src="images/competition_car.gif" alt="Car Competition GIF 1" style="flex: 1; max-width: 32%;">
+  <img src="images/competition_intelligent_vehicle.gif" alt="Car Competition GIF 2" style="flex: 1; max-width: 32%;">
+  <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 3" style="flex: 1; max-width: 32%;">
 </div>
 
 - *2020.06* Baidu Inc. Crowd counting detection  - Champion (1/253, Team leader)
