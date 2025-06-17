@@ -81,6 +81,12 @@ redirect_from:
 - *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
 - *2021.05* National, international aircraft design challenge in China - Third Prize
 - *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize (First time our university has won the award, Team leader).
+
+<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
+  <img src="images/competition_intelligent_vehicle.gif" alt="Car Competition GIF 1" style="width: 48%;">
+  <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 2" style="width: 48%;">
+</div>
+
 - *2020.06* Baidu Inc. Crowd counting detection  - Champion (1/253, Team leader)
 - *2020.06* Baidu Inc. Traffic light detection - Champion (1/253, Team leader)
 - *2019.08* The 12th national university student social practice and science contest on energy saving & emission reduction in China - Third Prize
