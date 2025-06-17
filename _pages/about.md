@@ -89,6 +89,8 @@ redirect_from:
 - *2025.01 - Present*, Ph.D in Electrical and Computer Engineering, National University of Singapore (NUS).
 
 # 💻 NUS Student Projects
+We are inviting students to join our project. If you are interested in these topics, feel free to contact me.
+
 - *2024.08 - 2025.05*, Modular Aerial Robot Systems project: Zhiqian Cai, Siyu Tang, Zhenyu Zhang
   
   Related works:
@@ -98,6 +100,7 @@ redirect_from:
   IROS 2025: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
+- *2025.08 - Present*, VLA for robotics: TBD
 - *2025.08 - Present*, Robot manipulation: TBD
 
 <div style="max-width: 400px; margin: 0 auto;">
