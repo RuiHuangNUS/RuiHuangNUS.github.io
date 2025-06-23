@@ -110,6 +110,8 @@ We are inviting students to join our project. If you are interested in these top
 - *2025.08 - Present*, VLA for robotics: TBD
 - *2025.08 - Present*, Robot manipulation: TBD
 
+<h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
+
 <div style="max-width: 400px; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SZ_zLv2PrWp34aoHrDp9xmke1oLrRR_9WWHyL8-0xX8&cl=ffffff&w=a"></script>
 </div>
