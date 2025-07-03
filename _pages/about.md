@@ -108,7 +108,6 @@ We are inviting students to join our project. If you are interested in these top
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
 - *2025.08 - Present*, VLA for robotics: TBD
-- *2025.08 - Present*, Robot manipulation: TBD
 
 <h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
 
