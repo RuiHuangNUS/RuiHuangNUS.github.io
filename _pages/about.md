@@ -41,6 +41,8 @@ redirect_from:
     <br>
     <a href="https://github.com/RuiHuangNUS/MARS-FTCC"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-FTCC?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
     <a href="https://www.youtube.com/watch?v=H8Fmif7PbdM" target="_blank"><img src="https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube" alt="YouTube Video Badge"></a>
+    <a href="https://www.bilibili.com/video/BV1vQuhzHEXj" target="_blank"><img src="https://img.shields.io/badge/观看-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili Badge"></a>
+    <a href="https://www.bilibili.com/video/BV1Vx3BzgEKM" target="_blank"><img src="https://img.shields.io/badge/观看-Bilibili-pink?logo=bilibili&logoColor=white" alt="Bilibili Badge"></a>
   </div>
 </div>
 
