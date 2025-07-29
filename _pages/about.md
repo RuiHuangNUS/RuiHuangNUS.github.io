@@ -27,7 +27,7 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
-<!-- Paper 3 -->
+<!-- Paper 3: IROS2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -46,7 +46,7 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 2: ICRA2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -64,7 +64,7 @@ redirect_from:
   </div>
 </div>
 
-<!-- Paper 1 -->
+<!-- Paper 1：CJA -->
 <div class='paper-box'>
   <div class='paper-box-text'>
     <a href="https://doi.org/10.1016/j.cja.2024.07.005">Adaptive configuration control of combined UAVs based on leader-wingman mode.</a> Chinese Journal of Aeronautics.
