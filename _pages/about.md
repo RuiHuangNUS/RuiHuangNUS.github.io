@@ -67,7 +67,7 @@ redirect_from:
 <!-- Paper 1：CJA -->
 <div class='paper-box'>
   <div class='paper-box-text'>
-    <a href="https://doi.org/10.1016/j.cja.2024.07.005">Adaptive configuration control of combined UAVs based on leader-wingman mode.</a> Chinese Journal of Aeronautics.
+    <a href="https://doi.org/10.1016/j.cja.2024.07.005">Adaptive configuration control of combined UAVs based on leader-wingman mode.</a> 2025 Chinese Journal of Aeronautics.
     <br><strong>Rui Huang</strong>, Hanlin Sheng, Qian Chen, Ziting Ran, Zhen Xue, Jiacheng Li, Tong Liu.
   </div>
 </div>
