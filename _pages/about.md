@@ -71,6 +71,7 @@ redirect_from:
     <br><strong>Rui Huang</strong>, Hanlin Sheng, Qian Chen, Ziting Ran, Zhen Xue, Jiacheng Li, Tong Liu.
   </div>
 </div>
+
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
 - *2023.10* National Scholarship.
