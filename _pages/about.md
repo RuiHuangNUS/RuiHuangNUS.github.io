@@ -80,10 +80,10 @@ redirect_from:
 # 🎖 Competitions
 - *2025.04*	Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue, Judge’s Commendation Award.
 - *2023.08*	The 9th Graduate Future Flight Vehicle Innovation Competition in China, Second prize (Team leader)
-- *2023.06*	Air Force Aviation Creative Challenge - First Prize (0.6%), Second prize
+- *2023.06*	[Air Force Aviation Creative Challenge](https://news.qq.com/rain/a/20231103A01LI400) - First Prize (0.6%), Second prize
 - *2021.06* The 7rd AVIC Cup international UAV Innovation grand prix - runner-up
 - *2021.05* National, international aircraft design challenge in China - Third Prize
-- *2020.08* The 15th national university student intelligent vehicle competition in China - First Prize (First time our university has won the award, Team leader).
+- *2020.08* [The 15th national university student intelligent vehicle competition in China](https://newsweb.nuaa.edu.cn/2020/0827/c738a213157/pagem.htm) - First Prize (First time our university has won the award, Team leader).
 
 <div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
   <img src="images/competition_car.gif" alt="Car Competition GIF 1" style="flex: 1; max-width: 32%; height: 300px; object-fit: cover;">
@@ -91,9 +91,7 @@ redirect_from:
   <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 3" style="flex: 1; max-width: 32%; height: 300px; object-fit: cover;">
 </div>
 
-
-- *2020.06* Baidu Inc. Crowd counting detection  - Champion (1/253, Team leader)
-- *2020.06* Baidu Inc. Traffic light detection - Champion (1/253, Team leader)
+- *2020.06* Baidu Inc. [Crowd counting detection](https://aistudio.baidu.com/competition/detail/37/0/leaderboard) and [Traffic light detection](https://aistudio.baidu.com/competition/detail/38/0/leaderboard) - Champion (1/253, Team leader)
 - *2019.08* The 12th national university student social practice and science contest on energy saving & emission reduction in China - Third Prize
 
 # 📖 Educations
