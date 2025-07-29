@@ -91,6 +91,13 @@ redirect_from:
   <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 3" style="flex: 1; max-width: 32%;">
 </div>
 
+<div style="display: flex; flex-direction: row; gap: 10px; margin-top: 10px;">
+  <img src="images/competition_car.gif" alt="Car Competition GIF 1" style="flex: 1; max-width: 32%; height: 200px; object-fit: cover;">
+  <img src="images/competition_intelligent_vehicle.gif" alt="Car Competition GIF 2" style="flex: 1; max-width: 32%; height: 200px; object-fit: cover;">
+  <img src="images/competition_intelligent_vehicle_obstacle.gif" alt="Car Competition GIF 3" style="flex: 1; max-width: 32%; height: 200px; object-fit: cover;">
+</div>
+
+
 - *2020.06* Baidu Inc. Crowd counting detection  - Champion (1/253, Team leader)
 - *2020.06* Baidu Inc. Traffic light detection - Champion (1/253, Team leader)
 - *2019.08* The 12th national university student social practice and science contest on energy saving & emission reduction in China - Third Prize
