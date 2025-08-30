@@ -22,8 +22,8 @@ redirect_from:
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 We will participate in the [Workshop on Advanced Aerial Robotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) at the University of Tokyo in October 2025, where we will present the latest progress of our MARS project.
-- *2025.06*: &nbsp;🎉🎉 Our paper titled ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems"](https://arxiv.org/abs/2503.09351) has been accepted by IROS 2025. See you in Hangzhou, China! 
-- *2025.04*: &nbsp;🎉🎉  Our team won the Judge’s Commendation Award in the Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue.
+- *2025.06*: &nbsp;🎉🎉 Our paper titled ["MARS-FTCP: Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09351) has been accepted by IROS 2025. See you in Hangzhou, China! 
+- *2025.04*: &nbsp;🎉🎉 Our team won the Judge’s Commendation Award in the Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue.
 - *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376) has been accepted by ICRA 2025! 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
@@ -37,7 +37,7 @@ redirect_from:
     </div>
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/abs/2503.09351">Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems</a> 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    <a href="https://arxiv.org/abs/2503.09351">MARS-FTCP: Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robot Systems</a> 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     <br><strong>Rui Huang</strong>, Zhenyu Zhang, Siyu Tang, Zhiqian Cai, and Lin Zhao.
     <br>
     <a href="https://github.com/RuiHuangNUS/MARS-FTCP"><img src="https://img.shields.io/github/stars/RuiHuangNUS/MARS-FTCC?style=social&label=Code+Stars" alt="GitHub Stars Badge"></a>
