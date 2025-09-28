@@ -40,6 +40,7 @@ redirect_from:
   <div class='paper-box-text'>
     <a href="https://nus-core.github.io/assets/standalone/MARS2/index.html">MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems</a> 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop on Challenges and Application Prospects for Reconfigurable Modular Robots
     <br><strong>Rui Huang</strong>, Zhiqian Cai, Siyu Tang, Jialin Zhang, Zhenyu Zhang and Lin Zhao.
+  </div>
 </div>
 
 <!-- Paper 3: IROS2025 -->
