@@ -29,6 +29,19 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
+<!-- Paper 4: IROS2025 Workshop -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS 2025</div>
+      <img src='images/' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://nus-core.github.io/assets/standalone/MARS2/index.html">MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems</a> 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop on Challenges and Application Prospects for Reconfigurable Modular Robots
+    <br><strong>Rui Huang</strong>, Zhiqian Cai, Siyu Tang, Jialin Zhang, Zhenyu Zhang and Lin Zhao.
+</div>
+
 <!-- Paper 3: IROS2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
