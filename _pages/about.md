@@ -21,11 +21,11 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper titled ["MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems"](https://nus-core.github.io/assets/standalone/MARS2/index.html) has been accepted by IROS Workshop 2025. We will participate in the [IROS Workshop on Challenges and Application Prospects for Reconfigurable Modular Robots](https://sites.google.com/view/reconfigurable-robots-workshop/home) in Hangzhou in October 2025, where we will present the latest progress of our MARS project.
+- *2025.09*: &nbsp;🎉🎉 Our paper titled ["MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems"](https://nus-core.github.io/assets/standalone/MARS2/index.html) has been accepted by <strong>IROS Workshop 2025</strong>. We will participate in the [IROS Workshop on Challenges and Application Prospects for Reconfigurable Modular Robots](https://sites.google.com/view/reconfigurable-robots-workshop/home) in Hangzhou in October 2025, where we will present the latest progress of our MARS project.
 - *2025.08*: &nbsp;🎉🎉 We will participate in the [Workshop on Advanced Aerial Robotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) at the University of Tokyo in October 2025, where we will present the latest progress of our MARS project.
-- *2025.06*: &nbsp;🎉🎉 Our paper titled ["MARS-FTCP: Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09351) has been accepted by IROS 2025. See you in Hangzhou, China! 
+- *2025.06*: &nbsp;🎉🎉 Our paper titled ["MARS-FTCP: Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09351) has been accepted by <strong>IROS 2025</strong>. See you in Hangzhou, China! 
 - *2025.04*: &nbsp;🎉🎉 Our team won the Judge’s Commendation Award in the Singapore Amazing Flying Machine Competition Category E: Drone Swarm Search and Rescue.
-- *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376) has been accepted by ICRA 2025! 
+- *2025.01*: &nbsp;🎉🎉 Our paper titled ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems"](https://arxiv.org/abs/2503.09376) has been accepted by <strong>ICRA 2025</strong>! 
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
