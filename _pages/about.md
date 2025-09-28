@@ -33,7 +33,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IROS 2025</div>
+      <div class="badge">IROS Workshop 2025</div>
       <img src='images/' alt="sym" width="100%">
     </div>
   </div>
