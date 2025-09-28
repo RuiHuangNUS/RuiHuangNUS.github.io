@@ -34,7 +34,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">IROS Workshop 2025</div>
-      <img src='images/' alt="sym" width="100%">
+      <img src='images/MARS_FTCC_why_agile.gif' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
