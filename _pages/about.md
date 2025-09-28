@@ -122,11 +122,13 @@ We are inviting students to join our project. If you are interested in these top
 
   Related works:
   
-  Under review: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
-
   ICRA 2025: ["Robust Self-Reconfiguration for Fault-Tolerant Control of Modular Aerial Robot Systems."](https://arxiv.org/abs/2503.09376)
   
   IROS 2025: ["Robust Fault-Tolerant Control and Agile Trajectory Planning for Modular Aerial Robotic Systems."](https://arxiv.org/abs/2503.09351)
+
+  IROS Workshop 2025: ["MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems."](https://nus-core.github.io/assets/standalone/MARS2/index.html)
+
+  Under review: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
 
 - *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
 - *2025.08 - Present*, VLA for robotics: TBD
