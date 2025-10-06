@@ -89,11 +89,11 @@ redirect_from:
 </div>
 
 # 📝 Under Review
-- TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems
+- [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
 
-- AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation
+- [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
 
-- SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning
+- [SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning](https://arxiv.org/pdf/2508.12394)
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
