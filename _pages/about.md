@@ -89,7 +89,11 @@ redirect_from:
 </div>
 
 # 📝 Under Review
-- Coming soon
+- TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems
+
+- AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation
+
+- SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
