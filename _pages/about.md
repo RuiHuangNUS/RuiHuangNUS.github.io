@@ -89,6 +89,9 @@ redirect_from:
 </div>
 
 # 📝 Under Review
+
+- [Stabilization of Nonlinear Systems with State-Dependent Representation: From Model-Based to Direct Data-Driven Control](https://arxiv.org/pdf/2510.16451)
+
 - [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
 
 - [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
