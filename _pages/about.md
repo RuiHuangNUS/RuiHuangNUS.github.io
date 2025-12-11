@@ -30,6 +30,21 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
+- [](https://arxiv.org/pdf/2508.12394)
+<!-- Paper 4: RAL -->
+<div class='paper-box'>
+  <!-- <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS Workshop 2025</div>
+      <img src='images/MARS2.gif' alt="sym" width="100%">
+    </div>
+  </div> -->
+  <div class='paper-box-text'>
+    <a href="https://nus-core.github.io/assets/standalone/MARS2/index.html">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters
+    <br>Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
+  </div>
+</div>
+
 <!-- Paper 4: IROS2025 Workshop -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -96,8 +111,6 @@ redirect_from:
 - [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
 
 - [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
-
-- [SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning](https://arxiv.org/pdf/2508.12394)
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
