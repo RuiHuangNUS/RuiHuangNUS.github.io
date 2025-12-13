@@ -152,7 +152,6 @@ We are inviting students to join our project. If you are interested in these top
 
   Under review: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
 
-- *2025.01 - Present*, Soft Robotics: Peiru Chen, Zekai Du
 - *2025.08 - Present*, VLA for robotics: TBD
 
 <h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
