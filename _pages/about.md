@@ -32,7 +32,7 @@ redirect_from:
 # 📝 Publications
 - [](https://arxiv.org/pdf/2508.12394)
 <!-- Paper 4: RAL -->
-<!-- <div class='paper-box'> -->
+<div class='paper-box'>
   <!-- <div class='paper-box-image'>
     <div>
       <div class="badge">RAL 2025</div>
