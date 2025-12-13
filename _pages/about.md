@@ -32,15 +32,15 @@ redirect_from:
 # 📝 Publications
 - [](https://arxiv.org/pdf/2508.12394)
 <!-- Paper 4: RAL -->
-<div class='paper-box'>
+<!-- <div class='paper-box'> -->
   <!-- <div class='paper-box-image'>
     <div>
-      <div class="badge">IROS Workshop 2025</div>
+      <div class="badge">RAL 2025</div>
       <img src='images/MARS2.gif' alt="sym" width="100%">
     </div>
   </div> -->
   <div class='paper-box-text'>
-    <a href="https://nus-core.github.io/assets/standalone/MARS2/index.html">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters
+    <a href="https://arxiv.org/abs/2508.12394">SIGN: Safety-Aware Image-Goal Navigation for Autonomous Drones via Reinforcement Learning</a> IEEE Robotics and Automation Letters
     <br>Zichen Yan, <strong>Rui Huang</strong>, Lei He, Shao Guo and Lin Zhao.
   </div>
 </div>
