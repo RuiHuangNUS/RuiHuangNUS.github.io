@@ -153,7 +153,9 @@ We are inviting students to join our project. If you are interested in these top
 
   ICRA 2026: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
 
-- *2025.08 - Present*, VLA for robotics: TBD
+  Under Review: ["Agile Modular Aerial Robot Load Transport with Arbitrary Configurations."](https://arxiv.org/)
+
+<!-- - *2025.08 - Present*, VLA for robotics: TBD -->
 
 <h2 style="text-align: center; margin-top: 2rem;">🙌 Thanks for visiting!</h2>
 
