@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper titled ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems"](https://arxiv.org/pdf/2509.14025) and ["AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation"](https://arxiv.org/pdf/2509.17340) have been accepted by <strong>ICRA 2025</strong>. See you in Vienna, Austria!!
 - *2025.10*: &nbsp;🎉🎉 Our <strong>Modular Flyer</strong> team was awarded the <strong>Rising Star Award</strong> in Hangzhou in October 2025 by <strong>MEITUAN@IROS 2025</strong>.
 - *2025.09*: &nbsp;🎉🎉 Our paper titled ["MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems"](https://nus-core.github.io/assets/standalone/MARS2/index.html) has been accepted by <strong>IROS Workshop 2025</strong>. We will participate in the [IROS Workshop on Challenges and Application Prospects for Reconfigurable Modular Robots](https://sites.google.com/view/reconfigurable-robots-workshop/home) in Hangzhou in October 2025, where we will present the latest progress of our MARS project.
 - *2025.08*: &nbsp;🎉🎉 We will participate in the [Workshop on Advanced Aerial Robotics](http://www.dragon.t.u-tokyo.ac.jp/all-events/workshop-aar-2025/) at the University of Tokyo in October 2025, where we will present the latest progress of our MARS project.
@@ -140,7 +141,7 @@ redirect_from:
 # 💻 NUS Student Projects
 We are inviting students to join our project. If you are interested in these topics, feel free to contact me.
 
-- *2024.08 - 2025.05*, Modular Aerial Robot Systems (MARS) project: Zhiqian Cai, Siyu Tang, Zhenyu Zhang
+- *2024.08 - 2025.05*, Modular Aerial Robot Systems (MARS) project
 
   Related works:
   
@@ -150,7 +151,7 @@ We are inviting students to join our project. If you are interested in these top
 
   IROS Workshop 2025: ["MARS2: Enabling Agile and Robust Flight in Modular Aerial Robot Systems."](https://nus-core.github.io/assets/standalone/MARS2/index.html)
 
-  Under review: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
+  ICRA 2026: ["TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems."](https://arxiv.org/abs/2509.14025)
 
 - *2025.08 - Present*, VLA for robotics: TBD
 
