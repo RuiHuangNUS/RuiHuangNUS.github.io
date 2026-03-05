@@ -32,6 +32,9 @@ redirect_from:
 
 # 📝 Publications
 - [](https://arxiv.org/pdf/2508.12394)
+- [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
+
+- [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
 <!-- Paper 4: RAL -->
 <div class='paper-box'>
   <!-- <div class='paper-box-image'>
@@ -108,10 +111,6 @@ redirect_from:
 # 📝 Under Review
 
 - [Stabilization of Nonlinear Systems with State-Dependent Representation: From Model-Based to Direct Data-Driven Control](https://arxiv.org/pdf/2510.16451)
-
-- [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
-
-- [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Jiangsu Province. 
