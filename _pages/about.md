@@ -31,10 +31,13 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 I’m happy to share that I’ve started my Doctor of Philosophy - PhD at National University of Singapore! 
 
 # 📝 Publications
-- [](https://arxiv.org/pdf/2508.12394)
-- [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025)
 
-- [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340)
+<!-- Paper 6: ICRA2026 -->
+- ICRA2026: [TransforMARS: Fault-Tolerant Self-Reconfiguration for Arbitrarily Shaped Modular Aerial Robot Systems](https://arxiv.org/pdf/2509.14025). <strong>Rui Huang</strong>, Zhiyu Gao, Siyu Tang, Jialin Zhang, Lei He, Ziqian Zhang, Lin Zhao
+
+<!-- Paper 5: ICRA2026 -->
+- ICRA2026: [AERO-MPPI: Anchor-Guided Ensemble Trajectory Optimization for Agile Mapless Drone Navigation](https://arxiv.org/pdf/2509.17340). Xin Chen, <strong>Rui Huang</strong>, Longbin Tang, Lin Zhao
+
 <!-- Paper 4: RAL -->
 <div class='paper-box'>
   <!-- <div class='paper-box-image'>
